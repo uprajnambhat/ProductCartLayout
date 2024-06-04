@@ -1,0 +1,52 @@
+.symbolsStyle {
+  font-family: cursive;
+  display: flex;
+  justify-content: space-between;
+}
+
+.symbolsStyle > p {
+  /* padding-top: 3px; */
+  font-size: 18px;
+  color: green;
+}
+
+.symbolsStyle button {
+  display: flex;
+  background-color: transparent;
+  color: brown;
+  border: 1px solid brown;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  font-size: 25px;
+}
+
+.symbolsStyle button:hover,
+.cartButtons button:hover {
+  background-color: green;
+}
+
+.cardTextStyle {
+  color: green;
+}
+.cardTextStyle span {
+  color: brown;
+}
+
+.cartButtons button {
+  background-color: transparent;
+  color: brown;
+  border: 1px solid brown;
+  margin-top: 25px;
+  padding-top: 1px;
+  padding-bottom: 0.5px;
+  font-size: 25px;
+}
+
+.cartButtons {
+  text-align: right;
+}
+
+.cartButtons h3 {
+  text-align: left;
+  color: brown;
+}

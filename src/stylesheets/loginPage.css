@@ -1,0 +1,16 @@
+.LoginStyle {
+  text-align: center;
+  color: brown;
+  line-height: 32px;
+}
+
+.FormStyle input {
+  margin: 8px;
+  color: green;
+}
+
+.FormStyle button {
+  margin: 10px;
+}
+
+
